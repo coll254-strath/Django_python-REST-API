@@ -29,5 +29,7 @@ Configure URLs: In myapp/urls.py, map URLs to your views. This tells Django whic
 
 Start the development server: Navigate to your project directory and run python manage.py runserver. Open http://127.0.0.1:8000/ in your browser to access the Django admin interface. Here, you can create and manage data for testing your API.![image](https://github.com/user-attachments/assets/d0421701-14af-4bd5-bb4b-4f90cd1a0ca5)
 ![image](https://github.com/user-attachments/assets/8c6c4824-3e3d-4a6c-a8bd-df67025c7cf2)
+![image](https://github.com/user-attachments/assets/5b472311-f1dd-48aa-8ed9-7f81efe7c47f)
+
 
 
